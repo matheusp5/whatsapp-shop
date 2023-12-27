@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@prisma/client": "^5.7.0",
+    "@types/mercadopago": "^1.5.8",
+    "mercadopago": "^1.5.8",
+    "venom-bot": "^5.0.21"
+  },
+  "devDependencies": {
+    "prisma": "^5.7.0"
+  },
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  }
+}
